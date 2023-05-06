@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518554182762",
+    "project_id": "childapp-81c3b",
+    "storage_bucket": "childapp-81c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518554182762:android:058b82012cf8e39d289613",
+        "android_client_info": {
+          "package_name": "com.busenazkose.childapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518554182762-0dmgpugfl5q8vdf92phd8uvrpi5up5di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wAp6QkA4AAFizxOOXIXAoe5iL1ZwA0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518554182762-0dmgpugfl5q8vdf92phd8uvrpi5up5di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
